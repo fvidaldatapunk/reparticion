@@ -1,6 +1,5 @@
 pandas
 openpyxl
 streamlit
-webbrowser
-plotly.express
+plotly
 yfinance
