@@ -3,7 +3,7 @@
 import pandas as pd
 import streamlit as st
 import webbrowser
-import plotly.express as px
+#import plotly.express as px
 import yfinance as yf
 
 pd.set_option('display.max_columns', None)
@@ -140,5 +140,5 @@ st.plotly_chart(graf_eu)
 
 #st.bar_chart(consolidado.set_index('Mês')[['Paack', 'Ecoscouting']])
 
-webbrowser.open('http://localhost:8501')
+#webbrowser.open('http://localhost:8501')
 
