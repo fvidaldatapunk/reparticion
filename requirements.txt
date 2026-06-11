@@ -1,3 +1,6 @@
 pandas
 openpyxl
 streamlit
+webbrowser
+plotly.express
+yfinance
