@@ -3,7 +3,7 @@
 import pandas as pd
 import streamlit as st
 #import webbrowser
-#import plotly.express as px
+import plotly.express as px
 import yfinance as yf
 
 pd.set_option('display.max_columns', None)
