@@ -2,7 +2,7 @@
 
 import pandas as pd
 import streamlit as st
-import webbrowser
+#import webbrowser
 #import plotly.express as px
 import yfinance as yf
 
